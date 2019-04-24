@@ -1,0 +1,6 @@
+framework module Pods_PicInPic_Tests {
+  umbrella header "Pods-PicInPic_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

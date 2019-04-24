@@ -1,0 +1,6 @@
+framework module PicInPic {
+  umbrella header "PicInPic-umbrella.h"
+
+  export *
+  module * { export * }
+}
